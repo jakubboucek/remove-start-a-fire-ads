@@ -3,9 +3,9 @@
 
   "name": "Skip Start a Fire Ad page",
   "description": "This extension allow skip any ads page based on project Start A Fire (http://startafire.com/)",
-  "version": "0.1",
+  "version": "0.2",
   "author": "Jakub Bouček",
-  "homepage_url": "https://github.com/jakubboucek/remove-start-a-fire-ads",
+  "homepage_url": "https://github.com/jakubboucek/skip-start-a-fire-ad-page",
   "short_name": "Skip stfi.re",
   "icons": {
     "16": "icon_16.png",
